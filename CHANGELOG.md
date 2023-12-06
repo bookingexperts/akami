@@ -1,3 +1,9 @@
+## 1.4.0 (2023-12-06)
+
+* Rely on ActiveSupport to define Hash#deep_merge
+* Drop Rubinius support
+* Drop GOST support
+
 ## 1.3.1 (2015-05-4)
 
 * Fix re
